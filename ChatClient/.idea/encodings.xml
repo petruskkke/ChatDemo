@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/src/client/Client.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/client/FileReceiveThread.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/client/FileSendThread.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/client/MessReceiveThread.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/client/VoiceReceiveThread.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/client/VoiceSendThread.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/gui/ChatHistoryGUI.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/gui/EmojiWindows.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/gui/FileReceiveGUI.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/gui/LoginGUI.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/gui/MainWindowsGUI.java" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
